@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am working on data analysis.<br>        I am looking to collaborate with Power BI.<br>        I am studying data analytics.<br>        I enjoy soccer, data, and cooking.
-
+I am currently immersed in the field of data analysis. <br> I continuously seek opportunities to collaborate using Power BI. <br> I am actively pursuing my studies in data analytics.<br> 
+I find great passion in soccer, data exploration, and the art of cooking.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucasgomezdataanalyst/) 
